@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 body h1 {
 background : pink;
 color : blue;
 font-size : 3em;
+=======
+body {
+  background: pink;
+}
+
+h1 {
+  color: blue;
+  font-size: 3em; 
+>>>>>>> solution
 }
 h2 {
+<<<<<<< HEAD
 color : green;
 font-weight : normal;
 font-style : italic;
@@ -13,3 +24,18 @@ font-size : 12px;
 background : #ccc;
 text-decoration : underline;
 }
+=======
+  color: green;
+  font-weight: normal;
+  font-style: italic;
+}
+
+.completed {
+  font-size: 12px;
+}
+
+#tasks .completed  {
+  background: #ccc;
+  text-decoration: underline;
+}
+>>>>>>> solution
